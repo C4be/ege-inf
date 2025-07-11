@@ -51,3 +51,19 @@ GitHub: [C4be](https://github.com/C4be)
 25. will be soon
 26. will be soon
 27. will be soon
+
+
+## Дополнительные материалы, мой выбор:
+
+1. Если охото решать нестандартные задачи, немного повышенного уровня или актуальные:
+   1. [Поляков](https://kpolyakov.spb.ru/school/ege.htm)
+   2. [ФИПИ](https://ege.fipi.ru/bank/index.php?proj=B9ACA5BBB2E19E434CD6BEC25284C67F)
+2. Нарешивание стандартных задач и первое знакомство:
+   1. [Решу ЕГЭ](https://inf-ege.sdamgia.ru)
+   2. [Школково](https://3.shkolkovo.online/catalog?SubjectId=30)
+3. Послушать: 
+   1. [Информатик БУ](https://www.youtube.com/@infbu)
+   2. [Основы Python МФТИ](https://youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0&si=AJoKGlLDy_lNdhqw)
+4. Почитать мой курс, но если будет мало:
+   1. [Yandex Python](https://education.yandex.ru/handbook/algorithms)
+   2. [Yandex Алгоритмы](https://education.yandex.ru/handbook/algorithms)
