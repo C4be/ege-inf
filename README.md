@@ -6,9 +6,10 @@
 
 GitHub: [C4be](https://github.com/C4be)
 
-![meAI](materials/for_main_readme/me_ai.png)
+<!-- Wait realize -->
+<!-- ![meAI](materials/for_main_readme/me_ai.png)
 
-*фото сгенерировано нейросетью, т.к. у автора нет нормальных фоток ^_^*
+*фото сгенерировано нейросетью, т.к. у автора нет нормальных фоток ^_^* -->
 
 ## О чем курс?
 
