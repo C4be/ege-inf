@@ -1,3 +1,5 @@
 jupyter
 ipykernel
 ipython
+networkx
+matplotlib
